@@ -72,7 +72,7 @@ h2, h2, h3 {
 }
 
 h1 { font-size: 60px;}
-h2 { font-size: 48px;}
+h2 { font-size: 38px;}
 h3 { font-size: 36px;}
 h4 { font-size: 26px;}
 h5 { font-size: 18px;}
@@ -458,35 +458,35 @@ ul, li {
 
 
 #background-carousel .item-no1 {
-  background: url(../../media/tai-hanh/slider/slide-1.jpg) no-repeat; 
+  background: url(../../media/son-mai/slider/slide-1.jpg) no-repeat; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; 
 }
 #background-carousel .item-no2 {
-  background: url(../../media/tai-hanh/slider/slide-2.jpg) no-repeat;
+  background: url(../../media/son-mai/slider/slide-2.jpg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 #background-carousel .item-no3 {
-  background: url(../../media/tai-hanh/slider/slide-3.jpg) no-repeat;
+  background: url(../../media/son-mai/slider/slide-3.jpg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 #background-carousel .item-no4 {
-  background: url(../../media/tai-hanh/slider/slide-4.jpg) no-repeat;
+  background: url(../../media/son-mai/slider/slide-4.jpg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 #background-carousel .item-no5 {
-  background: url(../../media/tai-hanh/slider/slide-5.jpg) no-repeat;
+  background: url(../../media/son-mai/slider/slide-5.jpg) no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
