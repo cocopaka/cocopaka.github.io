@@ -831,7 +831,7 @@ ul, li {
 ------------------------------------------------------------------------
 */
 .rsvpLink {
-	background: url(../../media/tai-hanh/bg/section_bg.jpg) no-repeat fixed center center;
+	background: url(../../media/son-mai/bg/section_bg.jpg) no-repeat fixed center center;
 }
 .rsvpLink .color-overlay {
 	background: rgba(0,0,0,.7);
@@ -1191,7 +1191,7 @@ ul, li {
 ------------------------------------------------------------------------
 */
 .quote {
-	background: url(../../media/tai-hanh/bg/quote_bg.jpg) no-repeat fixed center center;
+	background: url(../../media/son-mai/bg/quote_bg.jpg) no-repeat fixed center center;
 }
 .quote .color-overlay {
 	padding: 70px 0 60px;
@@ -1376,7 +1376,7 @@ input[type="submit"]:focus, input[type="submit"]:active {
 */
 
 .blog-bg {
-	background: url(../../media/tai-hanh/bg/banner_bg.jpg) no-repeat fixed center top;
+	background: url(../../media/son-mai/bg/banner_bg.jpg) no-repeat fixed center top;
 	color: #fff;
 	margin-top: 68px;
 }
@@ -1730,7 +1730,7 @@ ul.media-list + ul .media-object {
 */
 
 footer {
-	background: url(../../media/tai-hanh/bg/section_bg.jpg) no-repeat fixed center bottom;
+	background: url(../../media/son-mai/bg/section_bg.jpg) no-repeat fixed center bottom;
 	text-align: center;
 }
 footer .color-overlay {
